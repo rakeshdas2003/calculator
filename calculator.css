@@ -1,0 +1,214 @@
+
+body{
+    margin: 0;
+    padding: 0; 
+    height: auto;
+    display: flex;
+    justify-content: center;
+    background-color: #3a4452;
+}
+
+.contenar{
+    height:550px;
+    width: 400px;
+    margin-top: 150px;
+    border: 2px solid #717377;
+    border-radius: 10px;
+    box-shadow: opx 3px 15px rgba(34, 34, 35, 0.5);
+    background:linear-gradient(45deg,#0a0a0a,#3a4452);
+   
+}
+
+#screen{
+    height:100px;
+    width:90%;
+    border: none;
+    outline: none;
+    background: transparent;
+    box-shadow: 0px 3px 15px rgb(84, 84,84,0.1);
+    margin: 10px;
+    padding: 10px;
+    font-size: 40px;
+    text-align: right;
+    
+}
+.first{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+.second{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+.third{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+.four{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+.five{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+input{
+  border: none;
+  outline: none;
+  height: 40px;
+  width: 40px;
+  border-radius: 10px;
+  background-color:#3a4452;
+  box-shadow: 0 20px 35px rgb(0,0,1,0.9);
+  font-size: 20px;
+  font-weight: 700;
+}
+input:hover{
+   color: aqua;
+}
+
+
+@media (max-width:1460px){
+    body{
+        margin: 0;
+        padding: 0; 
+        height: auto;
+        display: flex;
+        justify-content: center;
+        background-color: #3a4452;
+    }
+    
+    .contenar{
+        height:550px;
+        width: 400px;
+        margin-top: 150px;
+        border: 2px solid #717377;
+        border-radius: 10px;
+        box-shadow: opx 3px 15px rgba(34, 34, 35, 0.5);
+        background:linear-gradient(45deg,#0a0a0a,#3a4452);
+       
+    }
+
+}
+
+@media (max-width:1340px){
+    body{
+        margin: 0;
+        padding: 0; 
+        height: auto;
+        display: flex;
+        justify-content: center;
+        background-color: #3a4452;
+    }
+    
+    .contenar{
+        height:550px;
+        width: 400px;
+        margin-top: 150px;
+        border: 2px solid #717377;
+        border-radius: 10px;
+        box-shadow: opx 3px 15px rgba(34, 34, 35, 0.5);
+        background:linear-gradient(45deg,#0a0a0a,#3a4452);
+       
+    }
+
+}
+
+@media (max-width:1195px){
+    body{
+        margin: 0;
+        padding: 0; 
+        height: auto;
+        display: flex;
+        justify-content: center;
+        background-color: #3a4452;
+    }
+    
+    .contenar{
+        height:550px;
+        width: 400px;
+        margin-top: 150px;
+        border: 2px solid #717377;
+        border-radius: 10px;
+        box-shadow: opx 3px 15px rgba(34, 34, 35, 0.5);
+        background:linear-gradient(45deg,#0a0a0a,#3a4452);
+       
+    }
+
+}
+
+@media (max-width:990px){
+    body{
+        margin: 0;
+        padding: 0; 
+        height: auto;
+        display: flex;
+        justify-content: center;
+        background-color: #3a4452;
+    }
+    
+    .contenar{
+        height:550px;
+        width: 400px;
+        margin-top: 150px;
+        border: 2px solid #717377;
+        border-radius: 10px;
+        box-shadow: opx 3px 15px rgba(34, 34, 35, 0.5);
+        background:linear-gradient(45deg,#0a0a0a,#3a4452);
+       
+    }
+
+}
+
+@media (max-width:680px){
+    body{
+        margin: 0;
+        padding: 0; 
+        height: auto;
+        display: flex;
+        justify-content: center;
+        background-color: #3a4452;
+    }
+    
+    .contenar{
+        height:550px;
+        width: 350px;
+        margin-top: 150px;
+        border: 2px solid #717377;
+        border-radius: 10px;
+        box-shadow: opx 3px 15px rgba(34, 34, 35, 0.5);
+        background:linear-gradient(45deg,#0a0a0a,#3a4452);
+       
+    }
+
+}
+
+@media(max-width:480px){
+    body{
+        margin: 0;
+        padding: 0; 
+        height: auto;
+        display: flex;
+        justify-content: center;
+        background-color: #3a4452;
+    }
+    
+    .contenar{
+        height:550px;
+        width: 300px;
+        margin-top: 150px;
+        margin-right: 10px;
+        border: 2px solid #717377;
+        border-radius: 10px;
+        box-shadow: opx 3px 15px rgba(34, 34, 35, 0.5);
+        background:linear-gradient(45deg,#0a0a0a,#3a4452);
+       
+    }
+
+}
